@@ -1,0 +1,179 @@
+body{margin: 0;padding: 0;}
+
+.system{
+    display: grid;
+    grid-template-areas: 'Header Header'
+        'Menu Main'
+        'Footer Main';
+    background-color: #E3F2E1;
+}
+
+.top{
+    grid-area: Header;
+    height:1em;
+    background-color: #0a5dab;
+}
+
+.menu_lateral{
+    grid-area: Menu;
+    height: calc(100vh - 6em);
+    width: 15em;
+    background-image: url('Templates/imgs/mmlatbkg.png');
+    background-repeat: repeat-x;
+    background-position: top;
+    background-color: whitesmoke;
+}
+.menu_lateral #menu_extreito:checked{
+    border:1px solid red;
+}
+
+.about{
+    grid-area: Footer;
+    width:3em;
+    height: 1em;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    overflow: hidden;
+    animation: mymove 1s ease;
+}
+
+.about>span{
+    font-size: small;
+}
+
+.Corpo{
+    grid-area: Main;
+    width: calc(100vw - 6.1em);
+    margin-left: 1em;
+    background-color: white;
+    /*visibility: hidden;*/
+}
+
+.modal-content{
+    display: none;
+    position: fixed;
+    left: 14em;
+    top: 10.5em;
+    width: 20em;
+    height: 30em;
+    border: solid 1px;
+    background-color: white;
+    box-shadow: 0.5em 0.5em 1em;
+    padding: 0.3em;
+}
+.modal-content>label{
+    border: outset 1px;
+    height: 1em;
+    width: 1em;
+    display: block;
+    float: right;
+    border-radius: 1em;
+    text-align: center;
+    padding: 0.2em;
+    font-weight: bolder;
+    color: white;
+    background-color: red;
+}
+
+.btn{
+
+    border-radius: 3px;
+    border: outset 1px lightgrey;
+    padding: 1em;
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    font-family: Lato, sans-serif;
+}
+
+.btnAdd{ background-color: lightgreen;}
+.btnSal{ background-color: lightblue;}
+.btnDel{ background-color: red;}
+
+
+#loader{
+    animation: is-rotating 1s infinite;
+    width: 8em;
+    height: 8em;
+    border:0.5em dashed transparent;
+    border-top-color: #51d4db;
+    border-radius: 50%;
+    margin-left: calc(50% - 4em);
+    margin-top: calc(50vh - 4em);
+}
+
+@keyframes is-rotating {
+    to{
+        transform: rotate(1turn);
+    }
+}
+
+.menu_lateral{
+    width: 5em;
+    overflow: hidden;
+    animation: backMymove 3s ease;
+}
+
+.menu_lateral .logo{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    margin-top: 1px;
+    margin-left: 1px;
+    z-index: 1000;
+    background: url(../imgs/icon_CIA92.svg) no-repeat center #ffffff;
+    background-size: cover;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #333;
+    animation: backMylogo 1s ease;
+}
+
+.menu_lateral:hover{
+    width: 15em;
+    animation: mymove 0s ease;
+}
+
+.menu_lateral:hover .logo{
+    position: absolute;
+    height: 113px;
+    width: 113px;
+    margin-top: 7px;
+    margin-left: 100px;
+    z-index: 200;
+    background: url(../imgs/icon_CIA92.svg) no-repeat center #ffffff;
+    background-size: contain;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #333;
+    animation: mylogo 1s ease;
+}
+
+.menu_lateral:hover ~ .about{
+    grid-area: Footer;
+    width: 15em;
+}
+
+.menu_lateral:hover ~ .Corpo{
+    width: calc(100vw - 16em);
+    animation: dfl_corpo 1s ease;
+}
+
+@keyframes mymove {
+  from {width: 5em;}
+  to {width: 15em;}
+}
+@keyframes backMymove {
+  from {width: 15em;}
+  to {width: 5em;}
+}
+@keyframes mylogo {
+  from {width: 70px;height: 70px;margin-left:0px}
+  to {width: 113px;height: 113px;margin-left:100px}
+}
+@keyframes backMylogo {
+  from {width: 113px;height: 113px;margin-left:100px}
+  to {width: 70px;height: 70px;margin-left:0px}
+}
+@keyframes dfl_corpo{
+    from{calc(100vw - 15em);}
+    to{width:calc(100vw - 4em);}
+}

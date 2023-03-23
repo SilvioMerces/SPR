@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="pin_green.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 35 47"
+   height="47mm"
+   width="35mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:window-height="1012"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g869"
+     inkscape:document-units="mm"
+     inkscape:cy="98.177153"
+     inkscape:cx="135.76662"
+     inkscape:zoom="2.8284271"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g869">
+      <g
+         style="fill:#0000ff"
+         transform="matrix(1.2726046,0,0,1.2726046,-1.6554116,-6.4102054)"
+         id="g896">
+        <path
+           id="circle888"
+           style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.212893;stroke-linecap:square;paint-order:fill markers stroke"
+           d="m 15.015698,5.3437951 a 7.7806324,7.7806324 0 0 0 -7.7442293,7.7809199 7.7806324,7.7806324 0 0 0 6.0285733,7.580416 l 1.852599,20.957377 1.495518,-20.922754 a 7.7806324,7.7806324 0 0 0 6.184635,-7.615039 7.7806324,7.7806324 0 0 0 -7.780922,-7.7809199 7.7806324,7.7806324 0 0 0 -0.03617,0 z"
+           inkscape:connector-curvature="0" />
+        <circle
+           style="fill:#ffffff;stroke:none;stroke-width:0.175821;stroke-linecap:square;paint-order:fill markers stroke"
+           id="path886"
+           cx="15.051929"
+           cy="13.124471"
+           r="6.4257498" />
+      </g>
+    </g>
+  </g>
+</svg>

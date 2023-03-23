@@ -1,0 +1,356 @@
+[26-Oct-2022 15:56:51 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[26-Oct-2022 15:56:51 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[26-Oct-2022 15:56:51 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[26-Oct-2022 15:56:51 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[26-Oct-2022 15:56:51 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[26-Oct-2022 15:56:51 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[26-Oct-2022 15:56:51 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[26-Oct-2022 15:56:51 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[26-Oct-2022 15:56:51 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[26-Oct-2022 15:56:51 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[21-Nov-2022 15:14:50 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[21-Nov-2022 15:14:50 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[21-Nov-2022 15:14:50 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[21-Nov-2022 15:14:50 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[21-Nov-2022 15:14:50 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[21-Nov-2022 15:14:50 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[21-Nov-2022 15:14:50 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[21-Nov-2022 15:14:50 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[21-Nov-2022 15:14:50 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[21-Nov-2022 15:14:50 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[21-Nov-2022 15:17:03 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[21-Nov-2022 15:17:03 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[21-Nov-2022 15:17:03 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[21-Nov-2022 15:17:03 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[21-Nov-2022 15:17:03 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[21-Nov-2022 15:17:03 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[21-Nov-2022 15:17:03 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[21-Nov-2022 15:17:03 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[21-Nov-2022 15:17:03 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[21-Nov-2022 15:17:03 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[21-Nov-2022 15:17:03 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[21-Nov-2022 15:17:13 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[21-Nov-2022 15:17:13 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[21-Nov-2022 15:17:13 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[21-Nov-2022 15:17:13 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[21-Nov-2022 15:17:13 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[21-Nov-2022 15:17:13 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[21-Nov-2022 15:17:13 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[21-Nov-2022 15:17:13 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[21-Nov-2022 15:17:13 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[21-Nov-2022 15:17:13 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[21-Nov-2022 15:18:31 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[21-Nov-2022 15:18:31 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[21-Nov-2022 15:18:31 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[21-Nov-2022 15:18:31 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[21-Nov-2022 15:18:31 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[21-Nov-2022 15:18:31 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[21-Nov-2022 15:18:31 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[21-Nov-2022 15:18:31 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[21-Nov-2022 15:18:31 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[21-Nov-2022 15:18:31 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[21-Nov-2022 15:18:31 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[24-Nov-2022 11:13:06 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[24-Nov-2022 11:13:06 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[24-Nov-2022 11:13:06 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[24-Nov-2022 11:13:06 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[24-Nov-2022 11:13:06 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[24-Nov-2022 11:13:06 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[24-Nov-2022 11:13:06 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[24-Nov-2022 11:13:06 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[24-Nov-2022 11:13:06 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[24-Nov-2022 11:13:06 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[26-Dec-2022 18:53:35 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[26-Dec-2022 18:53:35 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[26-Dec-2022 18:53:35 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[26-Dec-2022 18:53:35 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[26-Dec-2022 18:53:35 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[26-Dec-2022 18:53:35 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[26-Dec-2022 18:53:35 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[26-Dec-2022 18:53:35 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[26-Dec-2022 18:53:35 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[26-Dec-2022 18:53:35 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Jan-2023 09:59:59 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Jan-2023 09:59:59 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Jan-2023 09:59:59 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Jan-2023 09:59:59 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[10-Jan-2023 09:59:59 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Jan-2023 09:59:59 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Jan-2023 09:59:59 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Jan-2023 09:59:59 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Jan-2023 09:59:59 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Jan-2023 09:59:59 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Jan-2023 10:31:16 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Jan-2023 10:31:16 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Jan-2023 10:31:16 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Jan-2023 10:31:16 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[10-Jan-2023 10:31:16 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Jan-2023 10:31:16 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Jan-2023 10:31:16 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Jan-2023 10:31:16 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Jan-2023 10:31:16 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Jan-2023 10:31:16 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Jan-2023 10:38:42 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Jan-2023 10:38:42 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[10-Jan-2023 10:38:42 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[10-Jan-2023 10:38:42 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[10-Jan-2023 10:38:42 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Jan-2023 10:38:42 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Jan-2023 10:38:42 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[10-Jan-2023 10:38:42 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[10-Jan-2023 10:38:42 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[10-Jan-2023 10:38:42 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[10-Jan-2023 10:38:42 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[01-Mar-2023 10:54:48 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[01-Mar-2023 10:54:48 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[01-Mar-2023 10:54:48 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[01-Mar-2023 10:54:48 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[01-Mar-2023 10:54:48 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[01-Mar-2023 10:55:03 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[01-Mar-2023 10:55:03 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[01-Mar-2023 10:55:03 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[01-Mar-2023 10:55:03 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[01-Mar-2023 10:55:03 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[01-Mar-2023 10:55:03 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[01-Mar-2023 10:55:03 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[01-Mar-2023 10:55:03 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[01-Mar-2023 10:55:03 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[01-Mar-2023 10:55:03 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[01-Mar-2023 10:55:03 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[02-Mar-2023 10:59:34 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[02-Mar-2023 10:59:34 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[02-Mar-2023 10:59:34 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[02-Mar-2023 10:59:34 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[02-Mar-2023 10:59:34 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[02-Mar-2023 10:59:34 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[02-Mar-2023 10:59:34 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[02-Mar-2023 10:59:34 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[02-Mar-2023 10:59:34 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[02-Mar-2023 10:59:34 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Mar-2023 11:27:39 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Mar-2023 11:27:39 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Mar-2023 11:27:39 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Mar-2023 11:27:39 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Mar-2023 11:27:39 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Mar-2023 11:27:39 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Mar-2023 11:27:39 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[10-Mar-2023 11:27:39 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[10-Mar-2023 11:27:39 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 07:00:06 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 07:00:06 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 07:00:06 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 07:00:06 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 07:00:06 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 07:00:42 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 07:00:42 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[13-Mar-2023 07:00:42 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[13-Mar-2023 07:00:42 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[13-Mar-2023 07:00:42 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 07:00:42 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 07:00:42 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[13-Mar-2023 07:00:42 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[13-Mar-2023 07:00:42 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[13-Mar-2023 07:00:42 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[13-Mar-2023 07:00:42 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 07:02:13 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 07:02:13 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 07:02:13 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 07:02:13 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[13-Mar-2023 07:02:13 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 07:02:13 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 07:02:13 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 07:02:13 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 07:02:13 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 07:02:13 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 07:06:09 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 07:06:09 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[13-Mar-2023 07:06:09 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[13-Mar-2023 07:06:09 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[13-Mar-2023 07:06:09 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 07:06:09 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 07:06:09 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[13-Mar-2023 07:06:09 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[13-Mar-2023 07:06:09 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[13-Mar-2023 07:06:09 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[13-Mar-2023 07:06:09 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 14:01:37 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 14:01:37 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 14:01:37 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 14:01:37 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[13-Mar-2023 14:01:37 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 14:01:37 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 14:01:37 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 14:01:37 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 14:01:37 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 14:01:37 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 14:01:44 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 14:01:44 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 14:01:44 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[13-Mar-2023 14:01:44 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 382
+[13-Mar-2023 14:01:44 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 14:01:44 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 14:01:44 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 14:01:44 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[13-Mar-2023 14:01:44 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[13-Mar-2023 14:01:44 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 08:53:23 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 08:53:23 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 08:53:23 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 08:53:23 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 400
+[15-Mar-2023 08:53:23 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 08:53:23 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 08:53:23 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 08:53:23 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 08:53:23 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 08:53:23 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 08:58:17 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 08:58:17 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[15-Mar-2023 08:58:17 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[15-Mar-2023 08:58:17 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[15-Mar-2023 08:58:17 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 08:58:17 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 08:58:17 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[15-Mar-2023 08:58:17 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[15-Mar-2023 08:58:17 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[15-Mar-2023 08:58:17 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[15-Mar-2023 08:58:17 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 08:59:15 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 08:59:15 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[15-Mar-2023 08:59:15 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[15-Mar-2023 08:59:15 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[15-Mar-2023 08:59:15 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 08:59:15 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 08:59:15 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[15-Mar-2023 08:59:15 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[15-Mar-2023 08:59:15 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[15-Mar-2023 08:59:15 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[15-Mar-2023 08:59:15 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 09:54:48 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 09:54:48 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 09:54:48 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 09:54:48 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 400
+[15-Mar-2023 09:54:48 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 09:54:48 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 09:54:48 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 09:54:48 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 09:54:48 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 09:54:48 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 09:58:27 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 09:58:27 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 09:58:27 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[15-Mar-2023 09:58:27 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 400
+[15-Mar-2023 09:58:27 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 09:58:27 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 09:58:27 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 09:58:27 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[15-Mar-2023 09:58:27 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[15-Mar-2023 09:58:27 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:56:14 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:56:14 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:56:14 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:56:14 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 400
+[16-Mar-2023 14:56:14 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:56:14 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:56:14 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:56:14 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:56:14 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:56:14 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:56:24 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:56:24 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:56:24 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:56:24 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 400
+[16-Mar-2023 14:56:24 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:56:24 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:56:24 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:56:24 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:56:24 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:56:24 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:59:10 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:59:10 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:59:10 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:59:10 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 400
+[16-Mar-2023 14:59:10 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:59:10 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:59:10 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:59:10 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:59:10 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:59:10 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:59:15 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:59:15 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:59:15 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 14:59:15 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 400
+[16-Mar-2023 14:59:15 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:59:15 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:59:15 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:59:15 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 14:59:15 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 14:59:15 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:02:01 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:02:01 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[16-Mar-2023 15:02:01 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[16-Mar-2023 15:02:01 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[16-Mar-2023 15:02:01 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 15:02:01 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:02:01 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[16-Mar-2023 15:02:01 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[16-Mar-2023 15:02:01 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[16-Mar-2023 15:02:01 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[16-Mar-2023 15:02:01 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:02:54 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:02:54 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:02:54 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:02:54 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 400
+[16-Mar-2023 15:02:54 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 15:02:54 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:02:54 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 15:02:54 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:02:54 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 15:02:54 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:20:16 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:20:16 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:20:16 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:20:16 Brazil/East] PHP Notice:  Undefined index: id in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/formPropriedade.php on line 400
+[16-Mar-2023 15:20:16 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 15:20:16 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:20:16 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 15:20:16 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:20:16 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 15:20:16 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:22:13 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:22:13 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[16-Mar-2023 15:22:13 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[16-Mar-2023 15:22:13 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[16-Mar-2023 15:22:13 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 15:22:13 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:22:13 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[16-Mar-2023 15:22:13 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[16-Mar-2023 15:22:13 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[16-Mar-2023 15:22:13 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[16-Mar-2023 15:22:13 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:25:01 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:25:01 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:25:01 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:25:01 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 15:25:01 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:25:19 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43
+[16-Mar-2023 15:25:19 Brazil/East] PHP Notice:  Undefined index: id_atividade in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[16-Mar-2023 15:25:19 Brazil/East] PHP Notice:  Trying to access array offset on value of type null in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 44
+[16-Mar-2023 15:25:19 Brazil/East] PHP Notice:  Undefined index: defensivo in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 55
+[16-Mar-2023 15:25:19 Brazil/East] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 73
+[16-Mar-2023 15:25:19 Brazil/East] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 77
+[16-Mar-2023 15:25:19 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[16-Mar-2023 15:25:19 Brazil/East] PHP Notice:  Trying to get property 'nome' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 62
+[16-Mar-2023 15:25:19 Brazil/East] PHP Notice:  Undefined offset: 0 in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[16-Mar-2023 15:25:19 Brazil/East] PHP Notice:  Trying to get property 'id_superior' of non-object in /home1/cipm9206/spr.cipm92pmba.com.br/Modulos/Propriedade/Propriedade.Class.php on line 65
+[16-Mar-2023 15:25:19 Brazil/East] PHP Notice:  Accessing static property Conect::$conn as non static in /home1/cipm9206/spr.cipm92pmba.com.br/Libs/php/Conect.class.php on line 43

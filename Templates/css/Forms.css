@@ -1,0 +1,283 @@
+.mapafull #mapid{
+    display: block;
+    height: 100%;
+}
+
+.Corpo form{
+    margin: 0.3em;
+}
+
+.Corpo>label{
+    background-color: aliceblue;
+    width:calc(100% - 1em);
+    display: inline-block;
+    padding: 0.5em;
+    font-weight: bolder;
+}
+
+.Corpo .col{
+    margin-left: 5px;    
+}
+
+.Corpo .col-1{
+    width: 99%;
+    float: left;
+}
+
+.Corpo .col-2{
+    width: 49%;
+    float: left;
+}
+.col-2 select{
+    max-width: 99%;
+}
+
+.Corpo .col-3{
+    width: 32%;
+    float: left;
+}
+
+#mapid{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.Corpo .col label{
+    width: 100%;
+    display: block;
+    font-weight: bold;
+}
+
+.Corpo .multiselect{
+    width: calc(100% - 1em);
+    border-radius: 5px;
+    display: block;
+    position:relative;
+}
+
+.Corpo .multiselect>label{
+    white-space: nowrap;
+    background-color: #EEECEA;
+    border:1px solid #c0c0c0;
+    border-radius: 5px;
+    padding: 0.3em;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: calc(100% - 0.7em);
+}
+
+.Corpo .multiselect #multiselect{
+    display: none;
+}
+.multiselect .opcoes{
+    display: block;
+    position: absolute;
+    display: none;
+}
+
+.Corpo .multiselect p{
+    padding: 0;
+    margin: 0;
+}
+
+.Corpo .multiselect p>label{
+    display: inline-block;
+    margin: 0;
+    top: 0;
+    width:89%;
+    float:left;
+}
+.multiselect input:checked +.opcoes {
+    display: block;
+    position: absolute;
+    overflow: auto;
+    max-height: 15em;
+    background-color: white;
+}
+
+.Corpo form textarea{
+    width: 100%;
+    height: 10em;
+    border-radius: 5px;
+    border: 1px solid #c6c6c6;
+}
+
+.Corpo .tolllinks{
+    padding: 0;
+    display: inline-block;
+    position: relative;
+    float:left;
+    top: 0.2em;
+}
+
+.Corpo .tolllinks .abuttom{
+    display: inline-block;
+    padding: 0.5em;
+    background-color: lightsteelblue;
+    box-shadow: 3px 3px 1px #c0c0c0;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    min-width: 8em;
+}
+
+.Corpo .tollbar{
+    display: block;
+    position: absolute;
+    background-color:whitesmoke;
+    float:left;
+    width: calc(100% - 18em);
+    padding: 0.3em;
+    box-shadow:5px 5px 5px silver;
+    bottom: 0.5em;
+}
+.Corpo .tollbar input[type='submit']{
+    margin: 0.3em;
+    padding: 0.3em;
+    font-weight: bolder;
+    background-color: lightblue;
+    box-shadow: 3px 3px 1px #c0c0c0;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    min-width: 8em;
+}
+
+.Corpo .tollbar input[type='reset']{
+    margin: 0.3em;
+    padding: 0.3em;
+    font-weight: bolder;
+    background-color: orange;
+    box-shadow: 3px 3px 1px #c0c0c0;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    min-width: 8em;
+}
+
+#carregando{
+    position: absolute;
+    height:calc( 100% - 4.5em);
+    width: calc( 100% - 16.5em);
+    background-color: rgba(50,50,50,0.8);
+    z-index: 1999;
+    top: 4em;
+    display: none;
+}
+
+#carregando img{
+    position: relative;
+    height: 4em;
+    top: calc( 50vh - 2em);
+    left: calc( 50vh - 4em);
+}
+
+.Corpo #formDetail{
+    position: fixed;
+    border: solid 1px silver;
+    background-color: white;
+    height: 80vh;
+    width: 60vw;
+    z-index: 1300;
+    box-shadow: 8px 8px 8px;
+    left: 18em;
+    top: 3em;
+    display: none;
+}
+
+.Corpo #formDetail>title{
+    display: block;
+    background-color: #000;
+    width: auto;
+    height: 1em;
+    border-bottom: 1px solid gray; 
+    padding: 0.5em;
+    font-size: x-large;
+    color: #fff;
+}
+
+.Corpo #formDetail img{
+    height: 1.5em;
+    width: 1.5em;
+}
+
+.Corpo #formDetail>#detailBody{
+    height: calc(100% - 3.2em);
+}
+
+.Corpo #formDetail>form{
+    width: 100%;
+    position: absolute;
+}
+
+.Corpo #formDetail input[type='file']{display: none;}
+
+.Corpo #formDetail>form>img{
+    float: right;
+}
+
+.Corpo #formDetail>title>img{
+    float: right;
+    padding: 0;
+    margin: -5px;
+}
+.Corpo #formDetail .tab{
+    list-style: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #ddd;
+    border-bottom: 0;
+}
+
+.Corpo #formDetail .tab label{
+    display: table-cell;
+    width: 100px;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 2.5em;
+    vertical-align: middle;
+    transition: 0.3s;
+    outline: none;
+    background-image: linear-gradient(45deg, #f1f1f1 0%, #f1f1f1 90%, rgba(0,0,0,0) 90%, rgba(0,0,0,0) 100%);
+    border:1px solid #ddd;
+    border-bottom: 0;
+}
+
+.Corpo #formDetail .tab label:hover {background-image: linear-gradient(45deg, #ABDEFA 0%, #ABDEFA 90%, rgba(0,0,0,0) 90%, rgba(0,0,0,0) 100%);}
+.Corpo #formDetail .tab label.active{background-image: linear-gradient(45deg, #fff 0%, #fff 90%, rgba(0,0,0,0) 90%, rgba(0,0,0,0) 100%);}
+.Corpo #formDetail .tab input:checked +label{background-image: linear-gradient(45deg, #fff 0%, #fff 90%, rgba(0,0,0,0) 90%, rgba(0,0,0,0) 100%);}
+.Corpo #formDetail .tab input[type="radio"]{display: none;}
+.Corpo #formDetail .tabcontent{
+    display: inline-block;
+    min-width: calc(100% - 2px);
+    height: calc(100% - 2.5em);
+    width: auto;
+    border: 1px solid #ccc;
+    border-top: 0;
+    overflow:auto;
+}
+
+.Corpo .row{
+    border-bottom:1px solid #ddd;
+    width:100%;
+    display:inline-block;
+}
+
+.Corpo .row .rowTit{
+    float:left;
+    font-size: large;
+    width:calc(100% - 3em);
+
+}
+.Corpo .row .rowDetail{
+    float:left;
+    font-size: small;
+    width:calc(100% - 5.5em);
+}
+
+.Corpo .foto input{display: none;}
+.Corpo .foto img{
+    display: block;
+    position:absolute;
+    border: dashed 1px;
+}

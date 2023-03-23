@@ -1,0 +1,11 @@
+
+https://servicodados.ibge.gov.br/api/docs/localidades
+
+lista de municipios por estado:
+
+https://servicodados.ibge.gov.br/api/v1/localidades/distritos/{id}/
+
+
+https://servicodados.ibge.gov.br/api/docs/malhas?versao=2
+
+https://servicodados.ibge.gov.br/api/v2/malhas/2905?formato=application/vnd.geo+json

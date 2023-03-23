@@ -1,0 +1,258 @@
+#meuperfil{display: none;}
+#meuperfil:checked ~.modal-content{
+    display: block;
+}
+.menu_lateral .foto{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    margin-top: 1em;
+    margin-left: 1em;
+    border-radius: 2em;
+    background-color: white;
+    /* alterar para pegar os dados do usuário logado */
+    background-image: url('https://legadows.ssp.go.gov.br/fotoSicad/53335317149?token=05c5d7a387a6c54eea0d63a0d398c5db');
+    background-position: center;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+    background-size: 70px;
+    box-shadow: 3px 3px 3px black;
+}    
+/*
+.menu_lateral .logo{
+    position: absolute;
+    height: 110px;
+    width: 113px;
+    margin-top: 7px;
+    margin-left: 100px;
+    z-index: 200;
+    background: url(../imgs/logo_pmgo.png) no-repeat center #ffffff;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #333;
+}
+*/
+.menu_lateral ul.mmAdmin{
+    color: #ffffff;
+    position: relative;
+    height: 60px;
+    top:4.4em;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color: #0a5dab;
+}
+
+.menu_lateral ul.mmAdmin label{
+    display: block;
+    padding-top:1.2em;
+}
+
+.menu_lateral ul.mmAdmin label:after{
+    content: ">";
+    display: block;
+    float: right;
+    font-weight: bolder;
+    transform: rotate(90deg);
+    margin-right: 8px;
+}
+
+.menu_lateral ul.mmAdmin ul{
+    position: absolute;
+    height: 60px;
+    width: 165px;
+    top:0px;
+    margin: 10px 0;
+    padding: 0;
+    left: 130px;
+    list-style: none;
+    z-index: 988;
+    visibility: hidden;
+}
+.menu_lateral ul.mmAdmin ul li{
+    background-color: white;
+    border: 1px solid whitesmoke;
+    height: 30px;
+    padding:8px;
+}
+
+ul.mmContend{
+    margin: 0;
+    display: inline-block;
+    padding: 0;
+    height: calc(100% - 7.9em);
+    overflow-y: auto;
+    background-color: white;
+    min-width:15em;
+}
+ul.mmContend{
+    list-style: none;
+}
+ul.mmContend ul{
+    list-style: none;
+}
+ul.mmContend li{
+    padding: 0;
+    margin: 0;
+}
+ul.mmContend ul{
+    padding: 0;
+    margin: 0;
+    padding-left: 10px;
+}
+ul.mmContend li label{
+    display: block;
+    padding-top: 1.2em;
+    padding-bottom: 20px;
+}
+ul.mmContend li a{
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+ul.mmContend li ul{display: none;}
+ul.mmContend li input[type="checkbox"]:checked ~ul{display: block;}
+ul.mmContend li input[type="checkbox"]{display: none;}
+
+ul.mmContend li:nth-child(1){
+    background: url(../imgs/icon_atendimento.png) no-repeat left 20px;
+    padding-left: 25px;
+} 
+ul.mmContend li ul li:nth-child(1){
+    background: url(../imgs/icon_lista.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li ul li:nth-child(2){
+    background: url(../imgs/icon_cadastro.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li ul li:nth-child(3){
+    background: url(../imgs/lupa.svg) no-repeat left 20px;
+    background-position-y: center;
+    background-size: 20px;
+    padding-left: 25px;
+} 
+ul.mmContend li ul li:nth-child(4){
+    background: url(../imgs/iconVisCom.svg) no-repeat left 20px;
+    background-position-y: center;
+    background-size: 25px;
+    padding-left: 25px;
+} 
+ul.mmContend li ul li:nth-child(5){
+    background: url(../imgs/iconVisSol.svg) no-repeat left 20px;
+    background-position-y: center;
+     background-size: 25px;
+    padding-left: 25px;
+} 
+
+ul.mmContend li:nth-child(2){
+    background: url(../imgs/icon_supervisor.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(2) ul li:nth-child(2){
+    background: url(../imgs/icon_lista.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(3){
+    background: url(../imgs/icon_graficos.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(3) ul li:nth-child(1){
+    background: url(../imgs/icon_graficos.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(3) ul li:nth-child(2){
+    background: url(../imgs/icon_graficos.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(4){
+    background: url(../imgs/icon_adm.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(4) ul li:nth-child(1){
+    background: url(../imgs/icon_cadastro.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(4) ul li:nth-child(2){
+    background: url(../imgs/icon_cadastro.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+
+ul.mmContend li:nth-child(7){
+    background: url(../imgs/icon_tool.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(7) ul li:nth-child(1){
+    background: url(../imgs/icon_cadastro.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(7) ul li:nth-child(2){
+    background: url(../imgs/icon_cadastro.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(7) ul li:nth-child(3){
+    background: url(../imgs/icon_cadastro.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(8){
+    background: url(../imgs/icon_atendimento.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmContend li:nth-child(8) ul li:nth-child(1){
+    background: url(../imgs/icon_atendimento.png) no-repeat left 20px;
+    background-position-y: center;
+    padding-left: 25px;
+} 
+ul.mmAdmin ul li:nth-child(1){
+    background: url(../imgs/icon_perfil.png) no-repeat left 10px white;
+    background-position-y: center;
+    padding-left: 25px;
+    color: #303030;
+} 
+ul.mmAdmin ul li a{text-decoration: none; color: black;}
+ul.mmAdmin ul li:nth-child(2){
+    background: url(../imgs/icon_recarregar.png) no-repeat left 10px white;
+    background-position-y: center;
+    padding-left: 25px;
+    color: #303030;
+} 
+ul.mmAdmin ul li:nth-child(3){
+    background: url(../imgs/icon_atendimento.png) no-repeat left 10px white;
+    background-position-y: center;
+    padding-left: 25px;
+    color: #303030;
+}
+
+ul.mmAdmin li a{
+    display: block;
+    width: 105px;
+    float: right;
+}
+
+#chemenu{display:none;}
+.menu_lateral .mmAdmin:hover ul{
+    visibility: visible;
+}
+
+.tMenu{
+    margin-top: 23px;
+    background-color:#EEEEEE;
+    padding: 0.7em;
+    font-weight: bolder;
+    display: block;
+}
